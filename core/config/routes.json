@@ -1,0 +1,7 @@
+{
+    "index": {
+        "route": "/",
+        "location": "controllers\defaultController.php",
+        "action": "index"
+    }
+}
